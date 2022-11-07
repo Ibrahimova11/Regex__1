@@ -1,0 +1,15 @@
+C:\Users\susen\source\repos\Regex_\Regex_\bin\Debug\net6.0\Regex_.exe
+C:\Users\susen\source\repos\Regex_\Regex_\bin\Debug\net6.0\Regex_.deps.json
+C:\Users\susen\source\repos\Regex_\Regex_\bin\Debug\net6.0\Regex_.runtimeconfig.json
+C:\Users\susen\source\repos\Regex_\Regex_\bin\Debug\net6.0\Regex_.dll
+C:\Users\susen\source\repos\Regex_\Regex_\bin\Debug\net6.0\Regex_.pdb
+C:\Users\susen\source\repos\Regex_\Regex_\obj\Debug\net6.0\Regex_.csproj.AssemblyReference.cache
+C:\Users\susen\source\repos\Regex_\Regex_\obj\Debug\net6.0\Regex_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susen\source\repos\Regex_\Regex_\obj\Debug\net6.0\Regex_.AssemblyInfoInputs.cache
+C:\Users\susen\source\repos\Regex_\Regex_\obj\Debug\net6.0\Regex_.AssemblyInfo.cs
+C:\Users\susen\source\repos\Regex_\Regex_\obj\Debug\net6.0\Regex_.csproj.CoreCompileInputs.cache
+C:\Users\susen\source\repos\Regex_\Regex_\obj\Debug\net6.0\Regex_.dll
+C:\Users\susen\source\repos\Regex_\Regex_\obj\Debug\net6.0\refint\Regex_.dll
+C:\Users\susen\source\repos\Regex_\Regex_\obj\Debug\net6.0\Regex_.pdb
+C:\Users\susen\source\repos\Regex_\Regex_\obj\Debug\net6.0\Regex_.genruntimeconfig.cache
+C:\Users\susen\source\repos\Regex_\Regex_\obj\Debug\net6.0\ref\Regex_.dll
